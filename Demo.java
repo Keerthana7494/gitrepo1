@@ -1,3 +1,3 @@
 class Demo{
-String name;
+String name="branch2";
 }
